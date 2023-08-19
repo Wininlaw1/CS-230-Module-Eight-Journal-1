@@ -1,1 +1,3 @@
-# CS-230-Module-Eight-Journal-1
+
+
+The Gaming Room was an interesting project we worked on for quite some time. It is a mobile application with very well-experienced growth and this was our client. They wanted to process and develop a web-based version of its current application for Android to become available on multiple platforms. Particularly I feel like I outlined some areas of cloud application being better.  The most helpful part was realizing the domain model (as a UML) played a very useful in understanding the structure needed and had. Yet I can say I would love to revise when we were comparing popular operating systems we could have dived way deeper into the differences between platforms and client needs. Saying that you should understand speed and intuitiveness would remain the user key need to always consider. The timeliness of everything is key to completion. 
